@@ -6,9 +6,6 @@
     "start": "node index.js",
     "test": "npm install inherits && mocha"
   },
-  "engines": {
-    "node": "^14.0.0"
-  },
   "dependencies": {
     "http-errors": "^1.7.0",
     "mysql": "^2.10.2",
